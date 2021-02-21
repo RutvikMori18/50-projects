@@ -11,8 +11,7 @@
 body {
     background-color:#f6f7fb;
     font-family: 'Newsreader', serif;
-   
-display: flex;
+    display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
