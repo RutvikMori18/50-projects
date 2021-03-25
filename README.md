@@ -9,4 +9,5 @@
 | 06  | [progress step](https://github.com/RutvikMori18/50-projects/tree/master/progress%20step)                                        | [Live Demo](https://progresstep.netlify.app/)
 | 07  | [Rotating menu](https://github.com/RutvikMori18/50-projects/tree/master/rotation%20menu%20empty)                                        | [Live Demo](https://rotatingmenu.netlify.app/)
 | 08  | [Scroll](https://github.com/RutvikMori18/50-projects/tree/master/scroll)                                        | [Live Demo](https://scrollmenu.netlify.app/)
-| 09  | [Sound-Board](https://github.com/RutvikMori18/50-projects/tree/master/sound%20board)                                        | [Live Demo](https://admiring-ardinghelli-f1e4c5.netlify.app/)
+| 09  | [Sound-Board](https://github.com/RutvikMori18/50-projects/tree/master/sound%20board)                                        | [Live Demo](https://soundboardd.netlify.app/)
+| 10  | [split landing pade](https://github.com/RutvikMori18/50-projects/tree/master/sound%20board)                                        | [Live Demo](https://splitlsnding.netlify.app/)
