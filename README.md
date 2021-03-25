@@ -10,4 +10,4 @@
 | 07  | [Rotating menu](https://github.com/RutvikMori18/50-projects/tree/master/rotation%20menu%20empty)                                        | [Live Demo](https://rotatingmenu.netlify.app/)
 | 08  | [Scroll](https://github.com/RutvikMori18/50-projects/tree/master/scroll)                                        | [Live Demo](https://scrollmenu.netlify.app/)
 | 09  | [Sound-Board](https://github.com/RutvikMori18/50-projects/tree/master/sound%20board)                                        | [Live Demo](https://soundboardd.netlify.app/)
-| 10  | [split landing pade](https://github.com/RutvikMori18/50-projects/tree/master/sound%20board)                                        | [Live Demo](https://splitlsnding.netlify.app/)
+| 10  | [split landing pade](https://github.com/RutvikMori18/50-projects/tree/master/splite%20landing%20pade)                                        | [Live Demo](https://splitlsnding.netlify.app/)
