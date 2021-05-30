@@ -12,3 +12,4 @@
 | 09  | [Sound-Board](https://github.com/RutvikMori18/50-projects/tree/master/sound%20board)                                        | [Live Demo](https://soundboardd.netlify.app/)
 | 10  | [split landing pade](https://github.com/RutvikMori18/50-projects/tree/master/splite%20landing%20pade)                                        | [Live Demo](https://splitlsnding.netlify.app/)
 | 11  | [joke box](https://github.com/RutvikMori18/50-projects/tree/master/jokes%20box)                                        | [Live Demo](https://joke-box.netlify.app/)
+| 12  | [Menu](https://github.com/RutvikMori18/50-projects/tree/master/menu)                                        | [Live Demo](https://menubar18.netlify.app/)
